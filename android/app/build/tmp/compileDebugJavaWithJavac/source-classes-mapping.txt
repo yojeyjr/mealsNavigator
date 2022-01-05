@@ -1,0 +1,14 @@
+com/drawer/MainActivity.java
+ com.drawer.MainActivity
+com/drawer/MainApplication.java
+ com.drawer.MainApplication
+ com.drawer.MainApplication$1
+com/drawer/ReactNativeFlipper.java
+ com.drawer.ReactNativeFlipper
+ com.drawer.ReactNativeFlipper$1
+ com.drawer.ReactNativeFlipper$2
+ com.drawer.ReactNativeFlipper$2$1
+com/drawer/BuildConfig.java
+ com.drawer.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
